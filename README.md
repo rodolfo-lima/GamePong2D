@@ -1,2 +1,3 @@
 # GamePong2D
-Uma versão do clássico Pong para desktop
+
+A version of the classic Pong for desktop using the swing library
